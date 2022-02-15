@@ -10,6 +10,9 @@ python test.py
 ```
 to generate saliency maps.
 
+## Pretrained Models
+We provide our pretrained model in [BaiduPan](https://pan.baidu.com/s/1rlt2BhexPpLBt4jk6SFyDw)(2po1).
+
 ## Predicted Saliency Maps
 Here are the saliency maps predicted from our method!
 [Pan Baidu](https://pan.baidu.com/s/18DGI8rQFWsT1YmDquRwrLA?pwd=wh52)（wh52）
