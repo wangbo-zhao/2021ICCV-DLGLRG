@@ -3,6 +3,12 @@
 🔥🔥🔥 
 Coming soon！
 
+## Run
+run
+```
+python test.py
+```
+to generate saliency maps.
 
 ## Predicted Saliency Maps
 Here are the saliency maps predicted from our method!
