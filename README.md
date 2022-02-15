@@ -4,7 +4,7 @@
 Coming soon！
 
 
-## 2022.01.11
+## Predicted Saliency Maps
 Here are the saliency maps predicted from our method!
 [Pan Baidu](https://pan.baidu.com/s/18DGI8rQFWsT1YmDquRwrLA?pwd=wh52)（wh52）
 
