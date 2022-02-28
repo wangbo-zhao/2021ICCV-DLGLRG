@@ -15,5 +15,5 @@ We provide our pretrained model in [BaiduPan](https://pan.baidu.com/s/1rlt2BhexP
 
 ## Predicted Saliency Maps
 Here are the saliency maps predicted from our method!
-[Pan Baidu](https://pan.baidu.com/s/18DGI8rQFWsT1YmDquRwrLA?pwd=wh52)（wh52）
+[BaiduPan](https://pan.baidu.com/s/18DGI8rQFWsT1YmDquRwrLA?pwd=wh52)（wh52）
 
